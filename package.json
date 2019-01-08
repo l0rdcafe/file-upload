@@ -1,0 +1,19 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Ismail Arafa <me@l0rdcafe.com> (http://www.l0rdcafe.com)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "nodemon": "^1.18.9"
+  }
+}
